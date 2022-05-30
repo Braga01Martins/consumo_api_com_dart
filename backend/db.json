@@ -1,0 +1,109 @@
+{
+    "alunos": [
+        {
+            "id": "1",
+            "nome": "Davi Braga",
+            "idade": 23,
+            "nomeCursos": [
+                "Academia do Flutter",
+                "Imersão Getx",
+                "imersão shelf",
+                "imersão shelf",
+                "Flutter Avançado",
+                "Flutter Avançado"
+            ],
+            "cursos": [
+                {
+                    "id": 1,
+                    "nome": "academia do Flutter",
+                    "isAluno": true
+                },
+                {
+                    "id": 2,
+                    "nome": "Imersão GetX",
+                    "isAluno": false
+                }
+            ],
+            "endereco": {
+                "rua": "rua X",
+                "numero": 200,
+                "CEP": "01222020",
+                "telefone": {
+                    "ddd": 11,
+                    "telefone": "9895847541"
+                },
+                "cidade": {
+                    "id": 1,
+                    "nome": "São Paulo"
+                }
+            }
+        },
+        {
+            "id": "2",
+            "nome": "Fernanda Martins Braga",
+            "idade": "26",
+            "nomeCursos": [
+                "Academia do Flutter",
+                "Imersão Getx"
+            ],
+            "cursos": [
+                {
+                    "id": 1,
+                    "nome": "academia do Flutter",
+                    "isAluno": true
+                },
+                {
+                    "id": 2,
+                    "nome": "Imersão GetX",
+                    "isAluno": true
+                }
+            ],
+            "endereco": {
+                "rua": "rua X",
+                "numero": 200,
+                "CEP": "01222020",
+                "telefone": {
+                    "ddd": 11,
+                    "telefone": "9895847541"
+                },
+                "cidade": {
+                    "id": 2,
+                    "nome": "São Caetano"
+                }
+            }
+        },
+        {
+            "id": "62edbfb0-e070-11ec-a1b1-a18d0498b3f6",
+            "nome": "Patrizia Gucci",
+            "idade": null,
+            "nomeCursos": [
+                "Animal raro Gucci"
+            ],
+            "endereco": {
+                "rua": "Rua milano 504",
+                "numero": 456,
+                "CEP": "1245-74",
+                "telefone": {
+                    "ddd": 412,
+                    "telefone": "4521-8745"
+                },
+                "cidade": {
+                    "id": 12,
+                    "nome": "Milão"
+                }
+            },
+            "cursos": [
+                {
+                    "id": 1,
+                    "nome": "Animale e moda",
+                    "isAluno": true
+                },
+                {
+                    "id": 2,
+                    "nome": "Animale e estilo",
+                    "isAluno": true
+                }
+            ]
+        }
+    ]
+}

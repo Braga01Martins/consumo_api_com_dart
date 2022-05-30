@@ -1,0 +1,32 @@
+{
+    "nome": "Davi Braga",
+    "idade": "23",
+    "nomeCursos": ["Academia do Flutter", "Imersão Getx"],
+    "cursos": [
+        {
+            "id": 1,
+            "nome": "academia do Flutter",
+            "isAluno": true
+
+        },
+        {
+            "id": 2,
+            "nome": "Imersão GetX",
+            "isAluno": false
+        }
+    ], 
+
+    "endereco": {
+        "rua": "rua X",
+        "numero": 200,
+        "CEP": "01222020",
+        "telefone": {
+            "ddd": 11,
+            "telefone": "9895847541",
+            "cidade":{
+                "id": 1,
+                "nome": "São Paulo"
+            }
+        }
+    }
+}

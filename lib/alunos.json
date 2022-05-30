@@ -1,0 +1,31 @@
+[
+    {
+        "nome": "Davi Braga",
+        "idade": "23",
+        "nomeCursos": ["Academia do Flutter", "Imersão Getx"]
+    },
+
+    {
+        "nome": "Generico 2",
+        "idade": "25",
+        "nomeCursos": ["Academia do Flutter", "Imersão Getx"]
+    },
+
+    {
+        "nome": "Generico 3",
+        "idade": "26",
+        "nomeCursos": ["Academia do Flutter", "Imersão Getx"]
+    },
+
+    {
+        "nome": "Generico 4",
+        "idade": "27",
+        "nomeCursos": ["Academia do Flutter", "Imersão Getx"]
+    },
+
+    {
+        "nome": "Generico 5",
+        "idade": "29",
+        "nomeCursos": ["Academia do Flutter", "Imersão Getx"]
+    }
+]
