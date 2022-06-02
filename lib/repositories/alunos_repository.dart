@@ -15,7 +15,7 @@ class AlunosRepository {
     }).toList();
   }
 
-  // busca os dadso de acordo com o id de cada aluno
+  // busca os dados de acordo com o id de cada aluno
   Future<Aluno> findById(String id) async {
     final alunoResponse =
         await http.get(Uri.parse('http://localhost:3031/alunos/$id'));
